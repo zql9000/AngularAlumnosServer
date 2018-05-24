@@ -1,0 +1,3 @@
+{"_id":"1","nombre":"Juan","apellido":"Perez","sexo":1,"perfil":0,"activo":true}
+{"_id":"2","nombre":"Mario","apellido":"Rodriguez","sexo":1,"perfil":1,"activo":true}
+{"_id":"3","nombre":"Juana","apellido":"Demarchi","sexo":0,"perfil":0,"activo":true}
